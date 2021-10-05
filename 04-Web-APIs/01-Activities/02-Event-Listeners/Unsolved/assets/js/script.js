@@ -1,7 +1,7 @@
 var count = 0;
 
 // TODO: Add a comment describing the functionality of the following document.querySelector() methods:
-var incrementEl = document.querySelector('#increment');
+var incrementEl = document.querySelector('#increment');  
 var decrementEl = document.querySelector('#decrement');
 var countEl = document.querySelector('#count');
 
